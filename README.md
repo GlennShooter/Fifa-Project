@@ -8,4 +8,6 @@ This is a prototype for the transfer optimiser, future changes include:
   
   Fifa random search.py is the python file
   
+  Fifa.csv is the data file
+  
   
