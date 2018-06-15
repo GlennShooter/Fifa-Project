@@ -6,3 +6,6 @@ This is a prototype for the transfer optimiser, future changes include:
   allow user to query entire dataset not just individual leagues 
   
   
+  Fifa random search.py is the python file
+  
+  
